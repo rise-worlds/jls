@@ -1,0 +1,4 @@
+crypto_plus==1.0.5
+grequests==0.7.0
+requests==2.31.0
+uvicorn==0.29.0

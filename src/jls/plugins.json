@@ -1,0 +1,1197 @@
+{
+  "10080": {
+    "code": "PRAINBOWBRACKET",
+    "extended": true,
+    "name": "Rainbow Brackets"
+  },
+  "10083": {
+    "code": "PGITSCOPE",
+    "extended": true,
+    "name": "Git Scope"
+  },
+  "10695": {
+    "code": "PVLOG",
+    "extended": true,
+    "name": "SystemVerilog"
+  },
+  "10811": {
+    "code": "PCODEMRBASE",
+    "extended": true,
+    "name": "CodeMR"
+  },
+  "10828": {
+    "code": "PJDCLEANREAD",
+    "extended": true,
+    "name": "JavaDoc Clean Read"
+  },
+  "10904": {
+    "code": "PBRWJV",
+    "extended": true,
+    "name": "AutoCode for Java"
+  },
+  "10925": {
+    "code": "PDB",
+    "extended": true,
+    "name": "Database Tools and SQL for WebStorm"
+  },
+  "11058": {
+    "code": "PEXTRAICONS",
+    "extended": true,
+    "name": "Extra Icons"
+  },
+  "11461": {
+    "code": "DC",
+    "extended": true,
+    "name": "dotCover"
+  },
+  "11462": {
+    "code": "DPN",
+    "extended": true,
+    "name": "dotTrace"
+  },
+  "11560": {
+    "code": "PBISJ",
+    "extended": true,
+    "name": "Java Antidecompiler"
+  },
+  "12108": {
+    "code": "PSCIPIO",
+    "extended": true,
+    "name": "Scipio ERP Integration"
+  },
+  "12408": {
+    "code": "PBISAA",
+    "extended": true,
+    "name": "Android Antidecompiler"
+  },
+  "12437": {
+    "code": "PZENUML",
+    "extended": true,
+    "name": "ZenUML Support"
+  },
+  "12621": {
+    "code": "PJFORMDESIGNER",
+    "extended": true,
+    "name": "JFormDesigner (Marketplace Edition)"
+  },
+  "12626": {
+    "code": "PORCHIDE",
+    "extended": true,
+    "name": "OrchidE - Ansible Language Support"
+  },
+  "12634": {
+    "code": "PIEDIS",
+    "extended": true,
+    "name": "Iedis 2"
+  },
+  "12820": {
+    "code": "PREDIS",
+    "extended": true,
+    "name": "Redis"
+  },
+  "12869": {
+    "code": "PCMAKEPLUS",
+    "extended": true,
+    "name": "CMake Plus"
+  },
+  "12887": {
+    "code": "POPENAPI",
+    "extended": true,
+    "name": "OpenAPI Editor"
+  },
+  "12895": {
+    "code": "PBETTERHIGHLIGH",
+    "extended": true,
+    "name": "Better Highlights"
+  },
+  "13016": {
+    "code": "PATOMONEDARK",
+    "extended": true,
+    "name": "Atom One Dark By Mayke"
+  },
+  "13086": {
+    "code": "PGDOC",
+    "extended": true,
+    "name": "Generate Document"
+  },
+  "13151": {
+    "code": "POFFICEFLOOR",
+    "extended": true,
+    "name": "OfficeFloor"
+  },
+  "13156": {
+    "code": "PWIFIADB",
+    "extended": true,
+    "name": "Android WiFiADB"
+  },
+  "13441": {
+    "code": "PLARAVEL",
+    "extended": true,
+    "name": "Laravel Idea"
+  },
+  "13499": {
+    "code": "PODOO",
+    "extended": true,
+    "name": "Odoo"
+  },
+  "13538": {
+    "code": "PCREVIEW",
+    "extended": true,
+    "name": "Bitbucket Pull Requests"
+  },
+  "13615": {
+    "code": "PMRINTEGEE",
+    "extended": true,
+    "name": "Merge Request Integration EE - Code Review for GitLab"
+  },
+  "13668": {
+    "code": "PSFCC",
+    "extended": true,
+    "name": "Salesforce B2C Commerce (SFCC)"
+  },
+  "13720": {
+    "code": "PMINBATIS",
+    "extended": true,
+    "name": "MinBatis"
+  },
+  "13733": {
+    "code": "PPOJOTOJSONSCH",
+    "extended": true,
+    "name": "POJO to JSON Schema"
+  },
+  "13838": {
+    "code": "PRDFANDSPARQL",
+    "extended": true,
+    "name": "RDF and SPARQL"
+  },
+  "13841": {
+    "code": "PBASHSUPPORTPRO",
+    "extended": true,
+    "name": "BashSupport Pro"
+  },
+  "13905": {
+    "code": "PMYBATISLOG",
+    "extended": true,
+    "name": "MyBatis Log"
+  },
+  "14053": {
+    "code": "PSMARTJUMP",
+    "extended": true,
+    "name": "Smart Jump"
+  },
+  "14056": {
+    "code": "PGITFLOWPLUS",
+    "extended": true,
+    "name": "GitFlowPlus"
+  },
+  "14070": {
+    "code": "PJAVACODESUGG",
+    "extended": true,
+    "name": "Auto Java Code Suggestions"
+  },
+  "14088": {
+    "code": "PGOLANGCODESUGG",
+    "extended": true,
+    "name": "Auto GOLang Code Suggestions"
+  },
+  "14089": {
+    "code": "PRUBYCODESUGG",
+    "extended": true,
+    "name": "Auto Ruby Code Suggestions"
+  },
+  "14104": {
+    "code": "PVCS",
+    "extended": true,
+    "name": "commit-template"
+  },
+  "14166": {
+    "code": "PJSCODESUGG",
+    "extended": true,
+    "name": "Auto Javascript Code Suggestions"
+  },
+  "14167": {
+    "code": "PPHPCODESUGG",
+    "extended": true,
+    "name": "Auto PHP Code Suggestions"
+  },
+  "14203": {
+    "code": "PSVERILOG",
+    "extended": true,
+    "name": "SystemVerilog Studio"
+  },
+  "14338": {
+    "code": "PSPARQL",
+    "extended": true,
+    "name": "SPARQL"
+  },
+  "14371": {
+    "code": "PIMAGEVIEWER",
+    "extended": true,
+    "name": "OpenCV Image Viewer"
+  },
+  "14384": {
+    "code": "PTOOLSET",
+    "extended": true,
+    "name": "Toolset"
+  },
+  "14393": {
+    "code": "PJSONTOTS",
+    "extended": true,
+    "name": "JsonToTypeScript"
+  },
+  "14434": {
+    "code": "PQMLEDITOR",
+    "extended": true,
+    "name": "QmlEditor"
+  },
+  "14437": {
+    "code": "PSI",
+    "extended": true,
+    "name": "Shared Project Indexes"
+  },
+  "14482": {
+    "code": "PSTRKER",
+    "extended": true,
+    "name": "Stryker"
+  },
+  "14512": {
+    "code": "PELASTICSEARCH",
+    "extended": true,
+    "name": "Elasticsearch"
+  },
+  "14522": {
+    "code": "PMYBATISHELPER",
+    "extended": true,
+    "name": "MyBatisCodeHelperPro (Marketplace Edition)"
+  },
+  "14557": {
+    "code": "PVISUALGC",
+    "extended": true,
+    "name": "JDK VisualGC"
+  },
+  "14594": {
+    "code": "PPYCODESUGG",
+    "extended": true,
+    "name": "Auto Python Code Suggestions"
+  },
+  "14718": {
+    "code": "PFLUTTER",
+    "extended": true,
+    "name": "Flutter Storm"
+  },
+  "14723": {
+    "code": "PRESTKIT",
+    "extended": true,
+    "name": "RestfulBox"
+  },
+  "14742": {
+    "code": "PAWSLAMBDADEPLR",
+    "extended": true,
+    "name": "AWS Lambda Deployer"
+  },
+  "14821": {
+    "code": "PPUMLSTUDIO",
+    "extended": true,
+    "name": "PlantUML Studio"
+  },
+  "14896": {
+    "code": "PCWMP",
+    "extended": true,
+    "name": "Code With Me"
+  },
+  "15189": {
+    "code": "PFIREHIGHLIGHT",
+    "extended": true,
+    "name": "Firebase Rules"
+  },
+  "15242": {
+    "code": "PJPASQL",
+    "extended": true,
+    "name": "JPA SQL"
+  },
+  "15379": {
+    "code": "PGODRUNNER",
+    "extended": true,
+    "name": "Execution God Recorder"
+  },
+  "15405": {
+    "code": "PLEDGER",
+    "extended": true,
+    "name": "Ledger CLI"
+  },
+  "15433": {
+    "code": "PREGEXTOOL",
+    "extended": true,
+    "name": "Regex Tool"
+  },
+  "15456": {
+    "code": "PAPH",
+    "extended": true,
+    "name": "Android Package Helper"
+  },
+  "15457": {
+    "code": "PGITLABCI",
+    "extended": true,
+    "name": "Gitlab CI Pipeline Dashboard"
+  },
+  "15458": {
+    "code": "PCIRCLECI",
+    "extended": true,
+    "name": "CircleCI Dashboard"
+  },
+  "15535": {
+    "code": "PHEROKU",
+    "extended": true,
+    "name": "Heroku Dashboard"
+  },
+  "15574": {
+    "code": "PFLYINSKYZJBZ",
+    "extended": true,
+    "name": "spring-assistant-@valueToYml"
+  },
+  "15722": {
+    "code": "PREDISMANAGER",
+    "extended": true,
+    "name": "Redis Manager"
+  },
+  "15773": {
+    "code": "PZEROCODE",
+    "extended": true,
+    "name": "Zerocode Scenario Helper"
+  },
+  "15851": {
+    "code": "PSTORMSECTIONS",
+    "extended": true,
+    "name": "StormSections"
+  },
+  "15945": {
+    "code": "PSENTRYINTEG",
+    "extended": true,
+    "name": "Sentry Integration"
+  },
+  "16160": {
+    "code": "PREDISTOOLS",
+    "extended": true,
+    "name": "Redis-Cli"
+  },
+  "16217": {
+    "code": "PFUZYFIPC",
+    "extended": true,
+    "name": "Find In Files (Favorites)"
+  },
+  "16222": {
+    "code": "PBITRISECI",
+    "extended": true,
+    "name": "Bitrise Dashboard"
+  },
+  "16361": {
+    "code": "PGENERATORCRUD",
+    "extended": true,
+    "name": "Generator Crud"
+  },
+  "16405": {
+    "code": "PQTSQSSEDITOR",
+    "extended": true,
+    "name": "Qt Style Sheets Editor"
+  },
+  "16682": {
+    "code": "PAPPLETRUNNER",
+    "extended": true,
+    "name": "Applet Runner"
+  },
+  "16861": {
+    "code": "PDATABASE",
+    "extended": true,
+    "name": "Database Helper"
+  },
+  "16935": {
+    "code": "PHPEAPLUGIN",
+    "extended": true,
+    "name": "Php Inspections (EA Ultimate)"
+  },
+  "16988": {
+    "code": "PFASTREQUEST",
+    "extended": true,
+    "name": "Fast Request - API Buddy"
+  },
+  "17166": {
+    "code": "PLEP",
+    "extended": true,
+    "name": "LeetCode Editor Pro"
+  },
+  "17440": {
+    "code": "PHPBUILDER",
+    "extended": true,
+    "name": "PHP Data Object Generator"
+  },
+  "17456": {
+    "code": "PMATERIALHC",
+    "extended": true,
+    "name": "Material Theme UI High Contrast"
+  },
+  "17465": {
+    "code": "PCDMQTTCLIENT",
+    "extended": true,
+    "name": "MQTT Client"
+  },
+  "17501": {
+    "code": "PISCRATCH",
+    "extended": true,
+    "name": "Code Note: In IDE Note-Taking, Project Notes"
+  },
+  "17688": {
+    "code": "PRSMGNL",
+    "extended": true,
+    "name": "Magnolia YAML Assistant"
+  },
+  "17692": {
+    "code": "PCAPELASTIC",
+    "extended": true,
+    "name": "Cap-Elasticsearch"
+  },
+  "17699": {
+    "code": "PASTOCK",
+    "extended": true,
+    "name": "AStock"
+  },
+  "17785": {
+    "code": "PCAPREDIS",
+    "extended": true,
+    "name": "Cap-Redis"
+  },
+  "18151": {
+    "code": "PBEANCONVERTER",
+    "extended": true,
+    "name": "Simple Object Copy"
+  },
+  "18209": {
+    "code": "PELSA",
+    "extended": true,
+    "name": "ElasticSearch-Admin"
+  },
+  "18232": {
+    "code": "PDJANGOTPLPEP",
+    "extended": true,
+    "name": "Typed Django Template"
+  },
+  "18269": {
+    "code": "PQUERYFLAG",
+    "extended": true,
+    "name": "QueryFlag"
+  },
+  "18280": {
+    "code": "PNGINX",
+    "extended": true,
+    "name": "Nginx Configuration Pro"
+  },
+  "18286": {
+    "code": "PKSEXPLORER",
+    "extended": true,
+    "name": "KS-Explorer"
+  },
+  "18341": {
+    "code": "PZKA",
+    "extended": true,
+    "name": "Zookeeper-Admin"
+  },
+  "18357": {
+    "code": "PCDAPIRUNNER",
+    "extended": true,
+    "name": "API Runner"
+  },
+  "18387": {
+    "code": "PNEONPRO",
+    "extended": true,
+    "name": "NEON Nette Support"
+  },
+  "18389": {
+    "code": "PMBCODEHELPPRO",
+    "extended": true,
+    "name": "Mybatis Smart Code Help Pro"
+  },
+  "18394": {
+    "code": "PCODEREFACTORAI",
+    "extended": true,
+    "name": "Code Refactor AI"
+  },
+  "18425": {
+    "code": "PXSDVISUALIZER",
+    "extended": true,
+    "name": "XSD / WSDL Visualizer"
+  },
+  "18622": {
+    "code": "PSPRINGBOOTIDEA",
+    "extended": true,
+    "name": "Spring Boot Helper"
+  },
+  "18663": {
+    "code": "PEXCELEDITOR",
+    "extended": true,
+    "name": "ExcelEditor"
+  },
+  "18689": {
+    "code": "PGITLAB",
+    "extended": true,
+    "name": "GitLab Merge Requests"
+  },
+  "18857": {
+    "code": "PTERMINAL",
+    "extended": true,
+    "name": "Terminal Pro"
+  },
+  "18860": {
+    "code": "PWIREMOCHA",
+    "extended": true,
+    "name": "WireMocha"
+  },
+  "18896": {
+    "code": "PDYNAMODB",
+    "extended": true,
+    "name": "DynamoDB"
+  },
+  "18971": {
+    "code": "PFASTSHELL",
+    "extended": true,
+    "name": "FastShell"
+  },
+  "18975": {
+    "code": "PJSONNETEMLSUP",
+    "extended": true,
+    "name": "Jsonnet Pro"
+  },
+  "18981": {
+    "code": "PPHPHOUDINI",
+    "extended": true,
+    "name": "PHP Houdini"
+  },
+  "19024": {
+    "code": "POXYXSDJSONSCH",
+    "extended": true,
+    "name": "XSD to JSON Schema"
+  },
+  "19027": {
+    "code": "PQUARKUSHELPER",
+    "extended": true,
+    "name": "Quarkus Assistant"
+  },
+  "19097": {
+    "code": "PWGCODECREATOR",
+    "extended": true,
+    "name": "codeCreator"
+  },
+  "19114": {
+    "code": "PCIINTG",
+    "extended": true,
+    "name": "CIclone"
+  },
+  "19161": {
+    "code": "PDBDATABASETOOL",
+    "extended": true,
+    "name": "Database Tool"
+  },
+  "19205": {
+    "code": "PNGROK",
+    "extended": true,
+    "name": "Ngrok"
+  },
+  "19250": {
+    "code": "PMATERIALEXTRAS",
+    "extended": true,
+    "name": "Material Theme UI Extras"
+  },
+  "19297": {
+    "code": "PJSONTOANYLANGU",
+    "extended": true,
+    "name": "JsonToAnyLanguage"
+  },
+  "19308": {
+    "code": "PMATERIALCUSTOM",
+    "extended": true,
+    "name": "Material Theme UI Custom Theme"
+  },
+  "19309": {
+    "code": "PMATERIALLANG",
+    "extended": true,
+    "name": "Material Theme UI Language Additions"
+  },
+  "19310": {
+    "code": "PMATERIALFRAME",
+    "extended": true,
+    "name": "Material Theme UI Project Frame"
+  },
+  "19316": {
+    "code": "PRANCHER",
+    "extended": true,
+    "name": "Rancher"
+  },
+  "19360": {
+    "code": "PREDISCLIHELPER",
+    "extended": true,
+    "name": "Redis Client"
+  },
+  "19556": {
+    "code": "PSCREENCODEPRO",
+    "extended": true,
+    "name": "ScreenCodePro"
+  },
+  "19578": {
+    "code": "PCODEKITS",
+    "extended": true,
+    "name": "CodeKits"
+  },
+  "19599": {
+    "code": "PREDISS",
+    "extended": true,
+    "name": "Redis Operator"
+  },
+  "19660": {
+    "code": "PAWSQLADVISOR",
+    "extended": true,
+    "name": "PawSQL Advisor,SQL Audit/Rewrite/Index Advice,Tune SQL by Clicks"
+  },
+  "19661": {
+    "code": "PLATTEPRO",
+    "extended": true,
+    "name": "Latte Pro"
+  },
+  "19668": {
+    "code": "PGERRYTHEMESPRO",
+    "extended": true,
+    "name": "Gerry Themes Pro"
+  },
+  "19675": {
+    "code": "PUNIAPPSUPPORT",
+    "extended": true,
+    "name": "Uniapp Support"
+  },
+  "19727": {
+    "code": "PSEQUENCEOUTLIN",
+    "extended": true,
+    "name": "SequenceOutline"
+  },
+  "19889": {
+    "code": "POPENAPICRUDWIZ",
+    "extended": true,
+    "name": "OpenAPI CRUD Wizard"
+  },
+  "19906": {
+    "code": "PGOPARSER",
+    "extended": true,
+    "name": "GoParser"
+  },
+  "19963": {
+    "code": "PNEXTSKETCH",
+    "extended": true,
+    "name": "NextSketch"
+  },
+  "19977": {
+    "code": "PNETLIFY",
+    "extended": true,
+    "name": "Netlify Dashboard"
+  },
+  "20049": {
+    "code": "PGERRYCYBERPUNK",
+    "extended": true,
+    "name": "Gerry Cyberpunk"
+  },
+  "20050": {
+    "code": "PTLDRAI",
+    "extended": true,
+    "name": "TLDR"
+  },
+  "20061": {
+    "code": "PBREWBUNDLE",
+    "extended": true,
+    "name": "Brew Bundle"
+  },
+  "20075": {
+    "code": "PGERRYSPACE",
+    "extended": true,
+    "name": "Gerry Space"
+  },
+  "20111": {
+    "code": "PKAFKAIDE",
+    "extended": true,
+    "name": "Kafkaide"
+  },
+  "20144": {
+    "code": "PGITHUBCI",
+    "extended": true,
+    "name": "Github CI Dashboard"
+  },
+  "20236": {
+    "code": "PGERRYNATURE",
+    "extended": true,
+    "name": "Gerry Nature"
+  },
+  "20238": {
+    "code": "PEXTENSION",
+    "extended": true,
+    "name": "Extensions Manager"
+  },
+  "20243": {
+    "code": "PSKOL",
+    "extended": true,
+    "name": "Skol"
+  },
+  "20246": {
+    "code": "PGERRYCHERRY",
+    "extended": true,
+    "name": "Gerry Cherry"
+  },
+  "20247": {
+    "code": "PGERRYCOFFEE",
+    "extended": true,
+    "name": "Gerry Coffee"
+  },
+  "20293": {
+    "code": "PCONNECTUI",
+    "extended": true,
+    "name": "Connect Api"
+  },
+  "20297": {
+    "code": "POXYJSONCONVERT",
+    "extended": true,
+    "name": "JSON-YAML-XML Converter"
+  },
+  "20319": {
+    "code": "PGERRYAURORA",
+    "extended": true,
+    "name": "Gerry Aurora"
+  },
+  "20411": {
+    "code": "PWXUFQYRHZCRSEO",
+    "extended": true,
+    "name": "Gorm"
+  },
+  "20526": {
+    "code": "PWAUFKYVHQCRXEO",
+    "extended": true,
+    "name": "IoGame"
+  },
+  "20534": {
+    "code": "PSQLFLUFFLINTER",
+    "extended": true,
+    "name": "Sqlfluff Linter (Ultimate Edition)"
+  },
+  "20554": {
+    "code": "PMAGE",
+    "extended": true,
+    "name": "Magento and Adobe Commerce PhpStorm by Atwix"
+  },
+  "20565": {
+    "code": "PTAILWINDTOOLS",
+    "extended": true,
+    "name": "Snippet Toolkit for Tailwind CSS"
+  },
+  "20683": {
+    "code": "PTRAVISCI",
+    "extended": true,
+    "name": "Travis CI Dashboard"
+  },
+  "20761": {
+    "code": "PMONGOEXPERT",
+    "extended": true,
+    "name": "Mongo Expert"
+  },
+  "20805": {
+    "code": "PNEXTSKETCHTWO",
+    "extended": true,
+    "name": "NextSketch2"
+  },
+  "20888": {
+    "code": "PWXUQQYVOXCRSEO",
+    "extended": true,
+    "name": "JavaOrm"
+  },
+  "20985": {
+    "code": "PBUILDMON",
+    "extended": true,
+    "name": "Build Monitor"
+  },
+  "21173": {
+    "code": "PJETCLIENT",
+    "extended": true,
+    "name": "JetClient - The Ultimate REST Client"
+  },
+  "21263": {
+    "code": "PAICODING",
+    "extended": true,
+    "name": "AI Coding"
+  },
+  "21289": {
+    "code": "PCAICOMMITAPP",
+    "extended": true,
+    "name": "AICommit"
+  },
+  "21314": {
+    "code": "PCHATGPTCODING",
+    "extended": true,
+    "name": "ChatGPT Coding"
+  },
+  "21361": {
+    "code": "POLYBPMNGDNEXT",
+    "extended": true,
+    "name": "PolyBPMN visualizer"
+  },
+  "21566": {
+    "code": "PARMADILLO",
+    "extended": true,
+    "name": "Armadillo"
+  },
+  "21813": {
+    "code": "PVERILOGLANGUAG",
+    "extended": true,
+    "name": "Verilog Language Support"
+  },
+  "21833": {
+    "code": "PNOSQLNAVMDB",
+    "extended": true,
+    "name": "NoSQL Navigator For MongoDB"
+  },
+  "21857": {
+    "code": "PCUEFY",
+    "extended": true,
+    "name": "Cuefy"
+  },
+  "22035": {
+    "code": "PGPTASSISTANT",
+    "extended": true,
+    "name": "GPT Assistant"
+  },
+  "22128": {
+    "code": "PNPMPACKAGEJSON",
+    "extended": true,
+    "name": "NPM Package Json"
+  },
+  "22150": {
+    "code": "PSWIFTSUPPORT",
+    "extended": true,
+    "name": "Swift Support"
+  },
+  "22194": {
+    "code": "PAZURECODING",
+    "extended": true,
+    "name": "Azure Coding"
+  },
+  "22202": {
+    "code": "PGITLABCICD",
+    "extended": true,
+    "name": "GitLab CICD - Pipelines & Jobs, Builds Run Cancel Retry View Log"
+  },
+  "22223": {
+    "code": "PLOCALSTACK",
+    "extended": true,
+    "name": "LocalStack Integrator"
+  },
+  "22232": {
+    "code": "PSENTRY",
+    "extended": true,
+    "name": "Sentry"
+  },
+  "22282": {
+    "code": "AIP",
+    "extended": true,
+    "name": "JetBrains AI Assistant"
+  },
+  "22284": {
+    "code": "PKAFKA",
+    "extended": true,
+    "name": "Kafka Client"
+  },
+  "22304": {
+    "code": "PSRCODEGEN",
+    "extended": true,
+    "name": "Spring Rest Code Generator"
+  },
+  "22318": {
+    "code": "PSOURCESYNCPRO",
+    "extended": true,
+    "name": "Source Synchronizer Pro"
+  },
+  "22319": {
+    "code": "PAZD",
+    "extended": true,
+    "name": "Azd"
+  },
+  "22428": {
+    "code": "PWXUQRYTOXCRSEO",
+    "extended": true,
+    "name": "RustTool"
+  },
+  "22429": {
+    "code": "PPOLARISTOMCATS",
+    "extended": true,
+    "name": "Polaris Tomcat Server"
+  },
+  "22459": {
+    "code": "PIMAGETOVECTOR",
+    "extended": true,
+    "name": "ImageToVector"
+  },
+  "22472": {
+    "code": "PDATAGRAPH",
+    "extended": true,
+    "name": "DataGraph - JSON, YAML, XML Visualization"
+  },
+  "22597": {
+    "code": "POXYJSONSCHGEN",
+    "extended": true,
+    "name": "JSON Schema Generator"
+  },
+  "22635": {
+    "code": "PSPEECHTOTEXT",
+    "extended": true,
+    "name": "Speech-To-Text (AWS Transcribe)"
+  },
+  "22655": {
+    "code": "PMYSQLPROXY",
+    "extended": true,
+    "name": "MySQL Proxy"
+  },
+  "22685": {
+    "code": "PNEKOCAT",
+    "extended": true,
+    "name": "TamaCat the Embedded Internet Browser"
+  },
+  "22713": {
+    "code": "PDBSSH",
+    "extended": true,
+    "name": "SSH Tool"
+  },
+  "22726": {
+    "code": "PRETROFITASSIT",
+    "extended": true,
+    "name": "Retrofit Assistant"
+  },
+  "22742": {
+    "code": "PSQLFORMATTER",
+    "extended": true,
+    "name": "SQLFormatter"
+  },
+  "22748": {
+    "code": "PSCHEMAREGVIEW",
+    "extended": true,
+    "name": "Schema Registry Viewer"
+  },
+  "22813": {
+    "code": "PCITRIC",
+    "extended": true,
+    "name": "Citric"
+  },
+  "22971": {
+    "code": "PGENSETANDSET",
+    "extended": true,
+    "name": "GenerateSetAndGet"
+  },
+  "23086": {
+    "code": "PVOQAL",
+    "extended": true,
+    "name": "Voqal Assistant"
+  },
+  "23115": {
+    "code": "PSEQDIAORG",
+    "extended": true,
+    "name": "SequenceDiagram.org"
+  },
+  "23146": {
+    "code": "PFEIGNHELPER",
+    "extended": true,
+    "name": "Feign-Helper"
+  },
+  "23360": {
+    "code": "PJQEXPRESS",
+    "extended": true,
+    "name": "jqExpress"
+  },
+  "23458": {
+    "code": "PSWISSKITCONVER",
+    "extended": true,
+    "name": "SwissKit Converter"
+  },
+  "23478": {
+    "code": "PMYBATISCODE",
+    "extended": true,
+    "name": "MybatisCode"
+  },
+  "23554": {
+    "code": "POXYJSONDIAGRAM",
+    "extended": true,
+    "name": "JSON Schema Visualizer/Editor"
+  },
+  "23556": {
+    "code": "PSCIPIOMGNL",
+    "extended": true,
+    "name": "Magnolia CMS Integration"
+  },
+  "23561": {
+    "code": "PDATABASEBUDDY",
+    "extended": true,
+    "name": "Database Buddy"
+  },
+  "23577": {
+    "code": "PAUTOLOG",
+    "extended": true,
+    "name": "AutoLog"
+  },
+  "23609": {
+    "code": "PFIREBASE",
+    "extended": true,
+    "name": "Firebase Firestore"
+  },
+  "23685": {
+    "code": "PSCIPIOFTL",
+    "extended": true,
+    "name": "Flexible Freemarker"
+  },
+  "23687": {
+    "code": "PMICRONAUTLAUNC",
+    "extended": true,
+    "name": "Micronaut Launch"
+  },
+  "23693": {
+    "code": "PYIIFRAMEWORK",
+    "extended": true,
+    "name": "Yii2 Framework Support"
+  },
+  "23743": {
+    "code": "PSOTERISECURITY",
+    "extended": true,
+    "name": "Soteri Secret Scanner"
+  },
+  "23765": {
+    "code": "PNFLUTTER",
+    "extended": true,
+    "name": "NFlutter"
+  },
+  "23812": {
+    "code": "PJMETERPLUGINSM",
+    "extended": true,
+    "name": "JMeter Plugins Manager"
+  },
+  "23813": {
+    "code": "PGITWORKTREE",
+    "extended": true,
+    "name": "Git Worktree"
+  },
+  "23855": {
+    "code": "PJMETERRUNNER",
+    "extended": true,
+    "name": "JMeter Runner"
+  },
+  "23859": {
+    "code": "PINTELLIPHP",
+    "extended": true,
+    "name": "IntelliPHP - AI Autocomplete for PHP"
+  },
+  "23869": {
+    "code": "PPKXCODEGENERAT",
+    "extended": true,
+    "name": "PKXCodeGenerator"
+  },
+  "23887": {
+    "code": "PCLAI",
+    "extended": true,
+    "name": "CLAi"
+  },
+  "23927": {
+    "code": "PEXTRAIDETWEAKS",
+    "extended": true,
+    "name": "Extra IDE Tweaks"
+  },
+  "23999": {
+    "code": "PMONGODB",
+    "extended": true,
+    "name": "Mongo DB"
+  },
+  "24053": {
+    "code": "PPLUGDEVKITM",
+    "extended": true,
+    "name": "IDE Plug DevKit Maven"
+  },
+  "24111": {
+    "code": "PMAVENSEARCHER",
+    "extended": true,
+    "name": "MavenSearcher"
+  },
+  "24205": {
+    "code": "PSQLDEBUGGER",
+    "extended": true,
+    "name": "SQLDebugger"
+  },
+  "24265": {
+    "code": "PDLXRJAS",
+    "extended": true,
+    "name": "Resilience4j Annotation Support"
+  },
+  "24318": {
+    "code": "PDLXASAS",
+    "extended": true,
+    "name": "Alibaba Sentinel Annotation Support"
+  },
+  "7219": {
+    "code": "PSYMFONYPLUGIN",
+    "extended": true,
+    "name": "Symfony Support"
+  },
+  "7232": {
+    "code": "PWLANG",
+    "extended": true,
+    "name": "Wolfram Language"
+  },
+  "7410": {
+    "code": "PSWPLUGIN",
+    "extended": true,
+    "name": "Shopware"
+  },
+  "7499": {
+    "code": "PGITTOOLBOX",
+    "extended": true,
+    "name": "GitToolBox"
+  },
+  "7525": {
+    "code": "PHYBRISCOMMERCE",
+    "extended": true,
+    "name": "Hybris Integration"
+  },
+  "8006": {
+    "code": "PMATERIALUI",
+    "extended": true,
+    "name": "Material Theme UI"
+  },
+  "8286": {
+    "code": "PSEQUENCEDIAGRA",
+    "extended": true,
+    "name": "SequenceDiagram"
+  },
+  "9238": {
+    "code": "PJETFORCER",
+    "extended": true,
+    "name": "JetForcer | The Smartest Force.com IDE"
+  },
+  "9269": {
+    "code": "PAEMIDE",
+    "extended": true,
+    "name": "AEM IDE"
+  },
+  "9564": {
+    "code": "PRNCONSOLE",
+    "extended": true,
+    "name": "React Native Console"
+  },
+  "9707": {
+    "code": "PANSIHIGHLIGHT",
+    "extended": true,
+    "name": "ANSI Highlighter Premium"
+  },
+  "9739": {
+    "code": "PYAOQIANGBPMN",
+    "extended": true,
+    "name": "Yaoqiang BPMN Editor"
+  },
+  "9863": {
+    "code": "PAEM",
+    "extended": true,
+    "name": "AEM Support"
+  }
+}
