@@ -10,7 +10,7 @@ packages = [{ include = "jls", from = "src" }]
 python = "^3.12"
 crypto-plus = "^1.0.5"
 grequests = "^0.7.0"
-requests = "^2.31.0"
+requests = "^2.32.2"
 uvicorn = "^0.29.0"
 fastapi = "^0.110.3"
 click = "^8.1.7"
